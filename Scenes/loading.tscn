@@ -3,7 +3,6 @@
 [ext_resource type="Script" uid="uid://dxvvg3ll0xx7y" path="res://loading_screen.gd" id="1_fim2r"]
 
 [node name="Loading Screen" type="Node2D" unique_id=1861268664]
-position = Vector2(-6, 9)
 script = ExtResource("1_fim2r")
 
 [node name="ProgressBar" type="ProgressBar" parent="." unique_id=658247096]
