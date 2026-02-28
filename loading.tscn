@@ -1,0 +1,13 @@
+[gd_scene format=3 uid="uid://b4n3qghgb0h6"]
+
+[ext_resource type="Script" uid="uid://dxvvg3ll0xx7y" path="res://loading_screen.gd" id="1_gov4d"]
+
+[node name="Loading Screen" type="Node2D" unique_id=1861268664]
+position = Vector2(-6, 9)
+script = ExtResource("1_gov4d")
+
+[node name="ProgressBar" type="ProgressBar" parent="." unique_id=658247096]
+offset_left = 230.0
+offset_top = 462.0
+offset_right = 948.0
+offset_bottom = 489.0
